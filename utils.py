@@ -1,4 +1,6 @@
 """Math funcitons"""
+
+
 def add(a: int, b: int) -> int:
     """Function returning sum of two integers"""
     return a + b
